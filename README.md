@@ -1,2 +1,4 @@
-# cn102-TU
-เชื่ือมงานมาาทำ
+# Lab 06
+
+This is a README file.
+
